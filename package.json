@@ -8,7 +8,7 @@
     "cors": "^2.8.5",
     "count-files": "^2.6.2",
     "express": "^4.16.4",
-    "jsdom": "^15.1.0",
+    "jsdom": "^16.5.0",
     "keypress": "^0.2.1",
     "nodemon": "^1.19.0",
     "path": "^0.12.7"
